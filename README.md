@@ -1,6 +1,6 @@
 # Clone HDC Host
 <br>
-Clone criado para praticar HTML e CSS, meu primeiro website trablhando com responsividade!
+Clone criado para praticar HTML e CSS, meu primeiro website trabalhando com responsividade!
 <br>
 
 <div style="display: inline_block"><br>
